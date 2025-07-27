@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
 
-  base: 'https://github.com/Openjaimer/Pokedex',
+  base: '/https://github.com/Openjaimer/Pokedex/',
   plugins: [
     react(),
     tailwindcss()
